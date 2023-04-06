@@ -1,5 +1,4 @@
 # Active Directory Lab
-<h1>Active Directory Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
